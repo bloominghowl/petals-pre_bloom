@@ -50,7 +50,7 @@ To get started with using the code in this repository, you can follow these step
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/colorcanvas.git
+   git clone https://github.com/bloominghowl/colorcanvas.git
    ```
 
 2. **Navigate to the Desired Code:**
