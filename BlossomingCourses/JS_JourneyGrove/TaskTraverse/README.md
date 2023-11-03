@@ -44,7 +44,7 @@ To get started with using the code in this repository, you can follow these step
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/tasktraverse.git
+   git clone https://github.com/bloominghowl/tasktraverse.git
    ```
 
 2. **Navigate to the Desired Code:**
